@@ -1,0 +1,6 @@
+*.db
+*.pgn
+*.zst
+data/
+
+!sample/sample.pgn
